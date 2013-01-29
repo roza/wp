@@ -1,0 +1,15 @@
+.julekalender-wrapper { width:inherit;background:transparent;margin:0px;padding: 10px;overflow:hidden; }
+.julekalender-wrapper { text-align:right; }
+.julekalender-wrapper h3, .julekalender-wrapper p { text-align:left;}
+.julekalender-wrapper a { color:#717171;font-size:0.8em;padding-right:10px;font-family:arial;helvetica;}
+#julekalender, .widget-area ul ul#julekalender { padding:0px;margin:0px;}
+#julekalender li { list-style:none;display:block;width:inherit;}
+#julekalender li a { width:inherit;font-size: 12px;font-family:georgia;font-style:italic;text-align:left;padding:10px 0px 10px 65px;display:block;color:#fff;text-decoration:none;margin-bottom:3px;color:#000;-webkit-transition: all 0.2s ease;-moz-transition: all 0.2s ease;-o-transition: all 0.2s ease;-ms-transition: all 0.2s ease;transition: all 0.2s ease;}
+#julekalender li a:hover { background-color: rgba(175,31,34,1);box-shadow: 0px 0px 1px 1px #8c0004;color:#fff;padding:10px 15px 10px 0px;text-align:right;  }
+
+
+
+
+
+
+
